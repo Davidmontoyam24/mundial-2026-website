@@ -19,3 +19,8 @@ mundial-2026-website/
 ├── style.css
 ├── script.js
 └── images/
+
+Como ejecutar el proyecto:
+- Descarga o clona este repositorio.
+- Abre la carpeta del proyecto.
+- Ejecuta el archivo index.html en tu navegador.
